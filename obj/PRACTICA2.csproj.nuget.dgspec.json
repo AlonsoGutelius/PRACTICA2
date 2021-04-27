@@ -37,6 +37,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "microsoft.entityframeworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "microsoft.entityframeworkCore.inmemory": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

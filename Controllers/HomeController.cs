@@ -27,6 +27,18 @@ namespace PRACTICA2.Controllers
         {
             return View();
         }
+        public IActionResult QuienesSomos()
+        {
+            return View();
+        }
+        public IActionResult ServYPro()
+        {
+            return View();
+        }
+        public IActionResult Formulario()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
