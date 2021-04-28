@@ -14,6 +14,9 @@ namespace PRACTICA2.Controllers
          public IActionResult Nuevo() {
             return View();
         }
+        public IActionResult Inicio() {
+            return View();
+        }
 
         [HttpPost]
         public IActionResult Nuevo(Usuario p) {

@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\User\\Downloads\\Progra 1\\pc2\\PRACTICA2\\Views\\Usuario\\Inicio.cshtml",
+      "TargetPath": "Views\\Usuario\\Inicio.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\User\\Downloads\\Progra 1\\pc2\\PRACTICA2\\Views\\Home\\QuienesSomos.cshtml",
       "TargetPath": "Views\\Home\\QuienesSomos.cshtml",
       "FileKind": "mvc"
@@ -15646,11 +15651,6 @@
     {
       "FilePath": "c:\\Users\\User\\Downloads\\Progra 1\\pc2\\PRACTICA2\\Views\\Home\\Formulario.cshtml",
       "TargetPath": "Views\\Home\\Formulario.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\User\\Downloads\\Progra 1\\pc2\\PRACTICA2\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
